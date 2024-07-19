@@ -1,0 +1,15 @@
+{
+    "recommendations": [
+        "formulahendry.auto-rename-tag",
+        "mgmcdermott.vscode-language-babel",
+        "devsense.phptools-vscode",
+        "xdebug.php-debug",
+        "bmewburn.vscode-intelephense-client",
+        "xdebug.php-pack",
+        "zobo.php-intellisense",
+        "devsense.profiler-php-vscode",
+        "rifi2k.format-html-in-php",
+        "mehedidracula.php-namespace-resolver",
+        "github.copilot-chat"
+    ]
+}
